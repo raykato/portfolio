@@ -171,7 +171,7 @@ footer small {
 }
 
 #index {
-  background-image: url(https://github.com/raykato/portfolio.git/bg-index.jpg);
+  background-image: url(https://raykato.github.io/portfolio/bg-index.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -179,7 +179,7 @@ footer small {
 }
 
 #about {
-  background-image: url(https://github.com/raykato/portfolio.git/bg-about.jpg);
+  background-image: url(https://raykato.github.io/portfolio/bg-about.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -222,7 +222,7 @@ footer small {
   clear: both;
 }
 #portfolio {
-  background-image: url(/https://github.com/raykato/portfolio.git/bg-portfolio.jpg);
+  background-image: url(https://raykato.github.io/portfolio/bg-portfolio.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -264,7 +264,7 @@ footer small {
 }
 
 #contact {
-  background-image: url(https://github.com/raykato/portfolio.git/bg-contact.jpg);
+  background-image: url(https://raykato.github.io/portfolio/bg-contact.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
