@@ -171,7 +171,7 @@ footer small {
 }
 
 #index {
-  background-image: url(https://raykato.github.io/portfolio/bg-index.jpg);
+  background-image: url(/home/rayk/www/images/bg-index.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -179,7 +179,7 @@ footer small {
 }
 
 #about {
-  background-image: url(https://raykato.github.io/portfolio/bg-about.jpg);
+  background-image: url(/home/rayk/www/images/bg-about.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
@@ -222,7 +222,7 @@ footer small {
   clear: both;
 }
 #portfolio {
-  background-image: url(https://raykato.github.io/portfolio/bg-portfolio.jpg);
+  background-image: url(/home/rayk/www/images/bg-portfolio.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
@@ -241,13 +241,27 @@ footer small {
   padding-top: 10px;
 }
 
-#portfolio .text {
-  padding-bottom: 40px;
+#portfolio .design {
+  text-align: center;
 }
 
-#portfolio .text p{
+#portfolio .design p{
   font-size: 15px;
   text-align: center;
+  padding-bottom: 50px;
+}
+#portfolio .design img {
+  width: 150px;
+  padding-bottom: 30px;
+}
+
+#portfolio .works2 {
+  text-align: center;
+  padding-top: 20px;
+}
+
+#portfolio .works2 img{
+  width: 300px;
 }
 
 .cp_hr08 {
@@ -264,7 +278,7 @@ footer small {
 }
 
 #contact {
-  background-image: url(https://raykato.github.io/portfolio/bg-contact.jpg);
+  background-image: url(/home/rayk/www/images/bg-contact.jpg);
   background-repeat: no-repeat;
   background-position: center top;
   background-attachment: fixed;
